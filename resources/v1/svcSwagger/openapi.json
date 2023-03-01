@@ -10,7 +10,8 @@
       },
       "version": "0.3.0",
       "x-schemaVersion": "0.3.0",
-      "x-supportPage": "https://developers.marketo.com"
+      "x-supportPage": "https://developers.marketo.com",
+      "x-supportContact": "support@example.com"
     },
     "tags": [
       {
